@@ -41,7 +41,7 @@ body {
 /* Carrusel */
 .carousel-section {
   position: relative;
-  width: 1600px;
+  width: 100%;
   overflow: hidden;
   height: 350px;
 }
@@ -52,7 +52,7 @@ body {
 }
 
 .carousel img {
-  width: 100%;
+  width: 1600px;
   height: 350px;
   object-fit: cover;
   flex-shrink: 0;
@@ -194,3 +194,4 @@ details {
   text-decoration: none;
 
 }
+
