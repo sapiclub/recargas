@@ -41,7 +41,7 @@ body {
 /* Carrusel */
 .carousel-section {
   position: relative;
-  width: 100%;
+  width: 1600px;
   overflow: hidden;
   height: 350px;
 }
@@ -192,4 +192,5 @@ details {
   color: #47A3FF;
   margin: 0 10px;
   text-decoration: none;
+
 }
